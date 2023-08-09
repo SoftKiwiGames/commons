@@ -10,7 +10,7 @@ fi
 mkdir -p ~/.softkiwigames
 
 # install Rust and Cargo
-if [ ! -e "/usr/bin/cargo" ]; then
+if [ ! -e "/usr/bin/cargo" ] && [ ! -e "$HOME/.cargo/bin/cargo" ]; then
     echo "Cargo is not installed. Installing Rust..."
     
     # Download and run the Rust installation script
