@@ -34,4 +34,4 @@ It's our mission to entertain you with the results of our work.
 
 https://softkiwi.games/
 
-![](https://assets.softkiwi.games/logo-128.png)
+![](https://cdn.softkiwi.games/images/logo/logo-128.png)
