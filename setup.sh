@@ -28,7 +28,7 @@ fi
 
 # install Rust packages
 echo "Installing cargo packages..."
-cargo install git-delta exa bat hwatch
+cargo install git-delta eza bat hwatch
 
 echo "Linking configuration files..."
 ln -f -s "$(pwd)/aliases.sh" ~/.softkiwigames/aliases.sh
